@@ -3,3 +3,5 @@ venv
 img
 test.py
 data
+#модели слишком большие для загрузки
+models_save
