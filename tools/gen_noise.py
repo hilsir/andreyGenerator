@@ -3,7 +3,7 @@ from perlin_noise import PerlinNoise
 from PIL import Image
 import random
 
-output_path = 'img/img_noise/'
+output_path = '../img/img_noise/'
 
 def gen_noise():
     # Размеры изображения
