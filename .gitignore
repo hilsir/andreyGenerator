@@ -1,3 +1,5 @@
 venv
 .venv
 img
+test.py
+data
